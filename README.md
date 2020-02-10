@@ -1,0 +1,1 @@
+Este programa realiza la validación de la estación en la que se encuentra mediante el ingreso del número de mes que se ingrese adicional a eso se muestra mi numero de carnet y nombre completo.
